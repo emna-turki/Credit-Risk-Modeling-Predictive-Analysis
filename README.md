@@ -92,12 +92,12 @@ Le projet repose sur deux grandes sources de données internes (anonymisées) :
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone git clone https://github.com/emna-turki/Credit-Risk-Modeling-Predictive-Analysis.git
 ```
 
 2. Ouvrir le notebook :
 ```bash
-jupyter notebook Projet_BT_COMPLET_FINAL.ipynb
+jupyter notebook Projet_BT_.ipynb
 ```
 
 3. Exécuter les cellules dans l’ordre pour reproduire l’analyse.
