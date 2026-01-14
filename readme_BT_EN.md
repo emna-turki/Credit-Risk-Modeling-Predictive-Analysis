@@ -122,5 +122,6 @@ The data used in this project is **confidential and anonymized**. This repositor
 ## Contact
 
 **Emna Turki**  
-Data Science | Risk Analytics
+Data Science Student
+turkiemna21@gmail.com
 
