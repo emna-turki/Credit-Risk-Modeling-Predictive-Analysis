@@ -124,6 +124,6 @@ Les données utilisées sont **confidentielles et anonymisées**. Ce dépôt est
 Pour toute question ou suggestion :
 
 **Emna Turki**  
-*Data Science Student 
-turkiemna21@gmail.com
+**Data Science Student **
+**turkiemna21@gmail.com**
 
