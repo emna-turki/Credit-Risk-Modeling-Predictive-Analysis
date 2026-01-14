@@ -97,7 +97,7 @@ git clone https://github.com/emna-turki/Credit-Risk-Modeling-Predictive-Analysis
 
 Open the notebook:
 ```bash
-jupyter notebook Projet_BT_COMPLET_FINAL.ipynb
+jupyter notebook Projet_BT_.ipynb
 ```
 
 Run the cells sequentially to reproduce the analysis.
