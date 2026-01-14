@@ -1,7 +1,7 @@
 # Credit Risk Modeling & Predictive Analysis
 
 ## Overview
-This repository presents a **Data Science project focused on Credit Risk Modeling**, developed during an internship at the **Central Bank of Tunisia**. The project demonstrates how statistical methods, survival analysis, and machine learning techniques can be applied to analyze credit risk, model default dynamics, and support risk management decisions.
+This repository presents a **Data Science project focused on Credit Risk Modeling**, developed during an internship at the Banque de Tunisie. The project demonstrates how statistical methods, survival analysis, and machine learning techniques can be applied to analyze credit risk, model default dynamics, and support risk management decisions.
 
 This project is intended to showcase **analytical, quantitative, and programming skills** in a banking and financial risk context.
 
