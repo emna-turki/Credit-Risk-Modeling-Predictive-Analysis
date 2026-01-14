@@ -11,7 +11,7 @@ This project is intended to showcase **analytical, quantitative, and programming
 
 - **Author:** Emna Turki  
 - **Internship:** Data Science Intern – Risk Analytics  
-- **Institution:** Central Bank of Tunisia  
+- **Institution:** Banque de Tunisie  
 - **Period:** July 2025 – August 2025  
 
 ---
