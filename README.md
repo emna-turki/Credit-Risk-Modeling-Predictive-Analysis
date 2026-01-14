@@ -116,6 +116,7 @@ jupyter notebook Projet_BT_.ipynb
 ## ⚠️ Avertissement
 
 Les données utilisées sont **confidentielles et anonymisées**. Ce dépôt est destiné à un usage **académique et démonstratif** uniquement.
+Les données sur Github ne sont pas réelles.
 
 ---
 
